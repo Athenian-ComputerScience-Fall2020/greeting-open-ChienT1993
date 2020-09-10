@@ -5,5 +5,5 @@
 
 x= input("Your name: ")
 print ("Hello there, " + x + "!")
-input("How are you?: ")
+input("How are you, " + x + "?: ")
 print ("Thanks for letting me know!")

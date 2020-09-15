@@ -6,4 +6,4 @@
 x= input("Your name: ")
 print ("Hello there, " + x + "!")
 y= input("How are you, " + x + "?: ")
-print (y + " huh, okay thanks for letting me know!")
+print (y + " huh, okay thank you " + x + ", for letting me know!")
